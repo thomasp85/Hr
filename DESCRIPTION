@@ -1,0 +1,21 @@
+Package: Hr
+Title: Easy Access to Uppercase H
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Thomas Lin",
+             family = "Pedersen",
+             role = c("cre", "aut"),
+             email = "thomasp85@gmail.com",
+             comment = c(ORCID = "0000-0002-5147-4711"))
+Description: When you press the h button on your keyboard, you get a lower-case 
+    h. But what if you want an upper-case h? Easy! Just go to the wikipedia page 
+    on horses, copy the upper-case h and paste it into your document. The 'Hr'
+    package provides an RStudio addin that does just that.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    rstudioapi,
+    rvest,
+    xml2

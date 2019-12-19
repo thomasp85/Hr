@@ -1,0 +1,4 @@
+Name: Insert H
+Description: Inserts an uppercase h at the cursor position.
+Binding: insertHAddin
+Interactive: false
