@@ -19,3 +19,5 @@ Imports:
     rstudioapi,
     rvest,
     xml2
+URL: https://github.com/thomasp85/Hr
+BugReports: https://github.com/thomasp85/Hr/issues
